@@ -1,2 +1,2 @@
 # genieOS
-The OS of IoT
+The OS for IoT
